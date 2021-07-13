@@ -3,7 +3,6 @@ body {
     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://images5.alphacoders.com/880/thumb-1920-880175.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
     height: 100%;
 }
 h1 {
